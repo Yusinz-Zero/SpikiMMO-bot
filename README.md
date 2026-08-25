@@ -67,7 +67,7 @@ fetch('https://raw.githubusercontent.com/Yusinz-Zero/spikimmo-bot/main/auto_bot.
 ## 👨‍💻 Credits & Author
 
 * **Developer:** [Yusinz-Zero](https://github.com/Yusinz-Zero)
-* **Project Repository:** [spiki-bot](https://github.com/Yusinz-Zero)
+* **Project Repository:** [spiki-bot](https://github.com/Yusinz-Zero/spikimmo-bot)
 
 ---
 
