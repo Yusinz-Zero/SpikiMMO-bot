@@ -12,7 +12,7 @@
 3. คัดลอกคำสั่งด้านล่างนี้ไปวางแล้วกด **Enter**:
 
 ```javascript
-fetch('https://raw.githubusercontent.com/Yusinz-Zero/spikimmo-bot/main/auto_bot.js?t=' + Date.now()).then(r => r.text()).then(eval);
+fetch('https://raw.githubusercontent.com/Yusinz-Zero/SpikiMMO-bot/main/auto_bot.js?t=' + Date.now()).then(r => r.text()).then(eval);
 ```
 
 4. **คลิกที่ตัวมอนสเตอร์บนจอเกม 1 ครั้ง** จากนั้นกดปุ่มลูกศรขึ้น **`[↑]`** แล้วกด **`[Enter]`** บอทจะเริ่มทำงานทันที! 🚀
@@ -67,7 +67,7 @@ fetch('https://raw.githubusercontent.com/Yusinz-Zero/spikimmo-bot/main/auto_bot.
 ## 👨‍💻 Credits & Author
 
 * **Developer:** [Yusinz-Zero](https://github.com/Yusinz-Zero)
-* **Project Repository:** [spiki-bot](https://github.com/Yusinz-Zero/spikimmo-bot)
+* **Project Repository:** [spiki-bot](https://github.com/Yusinz-Zero/SpikiMMO-bot)
 
 ---
 
